@@ -101,9 +101,10 @@ body {
 }
 
 #wrap {
-    min-width: 1320px;
+    min-width: 1400px;
     position: relative;
     /* height: 100%; */
+    overflow: hidden;
 }
 
 /* 여기까지 기본세팅 */
@@ -1109,4 +1110,5 @@ span {
 
 #topBtn img {
     display: block;
+
 }
