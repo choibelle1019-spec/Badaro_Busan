@@ -205,7 +205,7 @@ body {
 .slide-content p {
     font-size: 60px;
     line-height: 1.2;
-    font-weight: 800;
+    font-weight: 600;
     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
 }
 
@@ -655,7 +655,7 @@ span {
 }
 
 .cover .up:hover {
-    background-color: #fff;
+    background-color: #ffffffde;
     color: #333;
 }
 
@@ -1110,4 +1110,5 @@ span {
 
 #topBtn img {
     display: block;
+
 }
