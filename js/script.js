@@ -110,7 +110,7 @@ var snsSwiper = new Swiper(".snsSwiper", {
     prevEl: ".snsSwiper-button-prev",
   },
   autoplay: {
-    delay: 1200,
+    delay: 2400,
     disableOnInteraction: false,
   },
 });
@@ -158,4 +158,5 @@ topBtn.addEventListener('click', () => {
     top: 0,
     behavior: 'smooth'
   });
+
 }); 
